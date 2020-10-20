@@ -1,7 +1,7 @@
-name: "cancer-genetics-genomics"
+name: cancer-genetics-genomics
 output_dir: ../docs
 navbar:
-  title: "cancer-genetics-genomics"
+  title: cancer-genetics-genomics
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/hakyimlab/cancer-genetics-genomics
 output:
   workflowr::wflow_html:
     toc: yes
