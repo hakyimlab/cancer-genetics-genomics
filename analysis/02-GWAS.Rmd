@@ -7,6 +7,13 @@ editor_options:
   chunk_output_type: console
 ---
 
+## Learning objectives of the module
+Understand the concept, benefits and limitations.
+Perform and interpret GWAS
+
+## Reading
+Visscher, Peter M., Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. McCarthy, Matthew A. Brown, and Jian Yang. 2017. “10 Years of GWAS Discovery: Biology, Function, and Translation.” American Journal of Human Genetics 101 (1): 5–22.
+
 ## Introduction
 
 ```{r}
