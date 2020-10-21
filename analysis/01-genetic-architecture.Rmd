@@ -7,6 +7,12 @@ editor_options:
   chunk_output_type: console
 ---
 
+## Learning objectives of the module
+
+
+## Reading
+Claussnitzer, Melina, Judy H. Cho, Rory Collins, Nancy J. Cox, Emmanouil T. Dermitzakis, Matthew E. Hurles, Sekar Kathiresan, et al. 2020. “A Brief History of Human Disease Genetics.” Nature 577 (7789): 179–89.
+
 ## Introduction
 
 ```{r}
