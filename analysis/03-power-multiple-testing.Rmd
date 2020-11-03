@@ -7,9 +7,11 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Reading
 
-```{r}
+Sham, Pak C., and Shaun M. Purcell. 2014. “Statistical Power and Significance Testing in Large-Scale Genetic Studies.” Nature Reviews. Genetics 15 (5): 335–46.
+https://www.nature.com/articles/nrg3706
 
-```
+Wang, Meiyue, and Shizhong Xu. 2019. “Statistical Power in Genome-Wide Association Studies and Quantitative Trait Locus Mapping.” Heredity 123 (3): 287–306.
+https://pubmed.ncbi.nlm.nih.gov/30858595/
 
