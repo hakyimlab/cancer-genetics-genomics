@@ -7,9 +7,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Reading
 
-```{r}
-
-```
-
+Willer, C. J., Y. Li, and G. R. Abecasis. 2010. “METAL: Fast and Efficient Meta-Analysis of Genomewide Association Scans.” Bioinformatics  26 (17): 2190. https://pubmed.ncbi.nlm.nih.gov/20616382/
