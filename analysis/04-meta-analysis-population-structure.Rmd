@@ -9,4 +9,11 @@ editor_options:
 
 ## Reading
 
+Meta analysis
+
 Willer, C. J., Y. Li, and G. R. Abecasis. 2010. “METAL: Fast and Efficient Meta-Analysis of Genomewide Association Scans.” Bioinformatics  26 (17): 2190. https://pubmed.ncbi.nlm.nih.gov/20616382/
+
+Population structure
+
+New approaches to population stratification in genome-wide association studies
+
