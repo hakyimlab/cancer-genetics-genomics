@@ -7,9 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Reading
 
-```{r}
-
-```
+GTEx Consortium. 2020. “The GTEx Consortium Atlas of Genetic Regulatory Effects across Human Tissues.” Science 369 (6509): 1318–30.
 
