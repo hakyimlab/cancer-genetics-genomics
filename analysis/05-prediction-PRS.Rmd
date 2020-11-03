@@ -7,9 +7,15 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Reading
 
-```{r}
+Prediction
 
-```
+Los Campos, Gustavo de, Ana Ines Vazquez, Stephen Hsu, and Louis Lello. 2018. “Complex-Trait Prediction in the Era of Big Data.” Trends in Genetics: TIG 34 (10): 746–54.
+
+PRS
+
+Khera, Amit V., Mark Chaffin, Krishna G. Aragam, Mary E. Haas, Carolina Roselli, Seung Hoan Choi, Pradeep Natarajan, et al. 2018. “Genome-Wide Polygenic Scores for Common Diseases Identify Individuals with Risk Equivalent to Monogenic Mutations.” Nature Genetics 50 (9): 1–9.
+
+Martin, Alicia R., Masahiro Kanai, Yoichiro Kamatani, Yukinori Okada, Benjamin M. Neale, and Mark J. Daly. 2019. “Clinical Use of Current Polygenic Risk Scores May Exacerbate Health Disparities.” Nature Publishing Group 51 (4): 1–10.
 
