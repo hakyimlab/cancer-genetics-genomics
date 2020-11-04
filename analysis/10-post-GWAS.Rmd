@@ -8,3 +8,11 @@ editor_options:
 ---
 
 ## 
+Albert, F. W., & Kruglyak, L. (2015). The role of regulatory variation in complex traits and disease. Nature Reviews Genetics, 16(4), 197–212. http://doi.org/10.1038/nrg3891
+- Li, Y. I., van de Geijn, B., Raj, A., Knowles, D. A., Petti, A. A., Golan, D., et al. (2016). RNA splicing is a primary link between genetic variation and disease. Science, 352(6285), 600–604. http://doi.org/10.1126/ science.aad9417
+- GTEx Consortium, Laboratory, Data Analysis &Coordinating Center (LDACC)—Analysis Working Group, Statistical Methods groups—Analysis Working Group, Enhancing GTEx (eGTEx) groups, NIH Common Fund, NIH/NCI, et al. (2017). Genetic effects on gene expression across human tissues. Nature, 550(7675), 204–213. http://doi.org/10.1038/nature24277
+- Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., et al. (2015). A gene-based association method for mapping traits using reference transcriptome data. Nature Genetics, 47(9), 1091–1098. http://doi.org/10.1038/ng.3367
+- Gusev, A., Ko, A., Shi, H., Bhatia, G., Chung, W., Penninx, B. W. J. H., et al. (2016). Integrative approaches for large-scale transcriptome-wide association studies. Nature Genetics, 48(3), 245–252. http://doi.org/10.1038/ ng.3506
+- Zhu, Z., Zhang, F., Hu, H., Bakshi, A., Robinson, M. R., Powell, J. E., et al. (2016). Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets, 1–9. http://doi.org/10.1038/ng.3538
+- PhD, B. F. V., PhD, G. M. P., PhD, M. O.-M., DMSc, R. F.-S., PhD, M. B., PhD, M. K. J., et al. (2012). Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study. The Lancet, 380(9841), 572–580. http://doi.org/10.1016/S0140-6736(12)60312-2
+- Burgess et al, Use of Mendelian randomisation to assess potential benefit of clinical intervention, BMJ 2012
