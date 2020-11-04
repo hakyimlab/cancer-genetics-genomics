@@ -7,9 +7,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Reading
 
-```{r}
+Li, Xihao, Zilin Li, Hufeng Zhou, Sheila M. Gaynor, Yaowu Liu, Han Chen, Ryan Sun, et al. 2020. “Dynamic Incorporation of Multiple in Silico Functional Annotations Empowers Rare Variant Association Analysis of Large Whole-Genome Sequencing Studies at Scale.” Nature Genetics 52 (9): 969–83. https://www.nature.com/articles/s41588-020-0676-4?proof=t
 
-```
-
+Liu, Yaowu, Sixing Chen, Zilin Li, Alanna C. Morrison, Eric Boerwinkle, and Xihong Lin. 2019. “ACAT: A Fast and Powerful P Value Combination Method for Rare-Variant Analysis in Sequencing Studies.” American Journal of Human Genetics 104 (3): 410–21.
